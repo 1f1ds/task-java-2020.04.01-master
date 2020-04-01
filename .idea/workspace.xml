@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f04f5e09-1f74-4c11-bde1-84c8f0a69c3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven3.6/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven3.6\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zu33HhmzJNAwrc83wFmqAE57hM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35747126" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04f5e09-1f74-4c11-bde1-84c8f0a69c3b" name="Default Changelist" comment="" />
+      <created>1585674950183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585674950183</updated>
+      <workItem from="1585674967455" duration="7158000" />
+      <workItem from="1585716291358" duration="308000" />
+      <workItem from="1585718056750" duration="1976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="35" key="#Project_Structure" timestamp="1585677582941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="269" y="35" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585677582941" />
+    <state x="457" y="121" key="FileChooserDialogImpl" timestamp="1585719509882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585719509882" />
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1585678012301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585678012301" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1585678012300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585678012300" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1585678012299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585678012299" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1585678012301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585678012301" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1585720688048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585720688048" />
+  </component>
+</project>
